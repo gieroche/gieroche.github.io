@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gieroche.github.io/sitemap.html.gz
+Sitemap: https://gieroche.github.io/app/sitemap.html.gz
+Sitemap: https://gieroche.github.io/assets/sitemap.html.gz
+Sitemap: https://gieroche.github.io/css/sitemap.html.gz
+Sitemap: https://gieroche.github.io/includes/sitemap.html.gz
+Sitemap: https://gieroche.github.io/item/sitemap.html.gz
+Sitemap: https://gieroche.github.io/src/sitemap.html.gz
